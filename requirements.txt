@@ -7,3 +7,4 @@ matplotlib
 pillow
 kaggle 
 opencv-python
+kagglehub
