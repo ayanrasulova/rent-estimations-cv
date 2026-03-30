@@ -3,7 +3,7 @@ Rent Estimations in Highly Populated Cities Using Computer Vision: Comparisons w
 
 # Data Sets
 
-[New York](https://www.kaggle.com/datasets/ericpierce/new-york-housing-zillow-api)
+[New York](https://www.kaggle.com/datasets/ericpierce/new-york-housing-zillow-api) contains newyork_housing.csv
 
 ```bash
 #!/bin/bash
@@ -12,7 +12,7 @@ kaggle datasets download ericpierce/new-york-housing-zillow-api
 kaggle datasets download ericpierce/new-york-housing-zillow-api --unzip
 ```
 
-[Austin](https://www.kaggle.com/datasets/ericpierce/austinhousingprices)
+[Austin](https://www.kaggle.com/datasets/ericpierce/austinhousingprices) contains homeImages, and austinHousingData.csv
 
 ```bash
 #!/bin/bash
@@ -22,7 +22,7 @@ kaggle datasets download ericpierce/austinhousingprices --unzip
 
 ```
 
-[Massachusetts](https://www.kaggle.com/datasets/vraj105/massachusetts-housing-data)
+[Massachusetts](https://www.kaggle.com/datasets/vraj105/massachusetts-housing-data) contains housing.csv
 
 ```bash
 #!/bin/bash
