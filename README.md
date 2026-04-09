@@ -3,6 +3,8 @@ Rent Estimations in Highly Populated Cities Using Computer Vision: Comparisons w
 
 # Data Sets
 
+Make sure to make a venv, and run ```pip install -r requirements.txt``` in the virtual environment
+
 [New York](https://www.kaggle.com/datasets/ericpierce/new-york-housing-zillow-api) contains newyork_housing.csv
 
 ```bash
