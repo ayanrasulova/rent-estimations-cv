@@ -7,3 +7,7 @@ import pandas as pd
 df = pd.read_csv("newyork_housing.csv")
 
 os.makedirs("newyorkimages", exist_ok=True)
+
+df = pd.read_csv("housing.csv")
+
+os.makedirs("massachusettsimages", exist_ok=True)
