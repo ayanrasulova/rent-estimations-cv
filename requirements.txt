@@ -8,3 +8,5 @@ pillow
 kaggle 
 opencv-python
 kagglehub
+requests
+tqdm
